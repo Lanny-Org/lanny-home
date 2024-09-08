@@ -7,3 +7,5 @@ lol sorry bob
 using token
 
 im noob
+
+bob i changed perms
